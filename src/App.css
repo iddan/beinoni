@@ -1,22 +1,37 @@
 .App {
   min-height: 100vh;
+  max-width: 811px;
   display: flex;
   flex-direction: column;
+  margin: auto;
 }
 
 .App header {
+  padding: 16px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
 }
 
 .App header h1 {
   font-family: "Mugrabi 2.0 AAA";
 }
 
+.App header .login {
+  background: none;
+  border: none;
+}
+
 .App main {
   flex: 1;
   display: block;
+}
+
+/** @todo move to post **/
+.App article {
+  max-width: 568px;
+  margin: auto;
 }
 
 .App footer {
