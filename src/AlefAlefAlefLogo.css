@@ -1,0 +1,15 @@
+.AlefAlefAlefLogo {
+  display: flex;
+  flex-direction: column;
+  color: inherit;
+  text-decoration: inherit;
+  text-align: right;
+  align-items: flex-start;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.AlefAlefAlefLogo img {
+  height: 3.5em;
+  margin-top: 0.25em;
+}

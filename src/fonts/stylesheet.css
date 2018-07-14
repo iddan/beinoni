@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Mugrabi 2.0 AAA";
+  src: url("Mugrabi20AAA-Bold.woff2") format("woff2"),
+    url("Mugrabi20AAA-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ploni 1.1 AAA";
+  src: url("Ploni11AAA-Bold.woff2") format("woff2"),
+    url("Ploni11AAA-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FrankRuehl AAA";
+  src: url("FrankRuehlAAA.woff2") format("woff2"),
+    url("FrankRuehlAAA.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ploni 1.1 AAA";
+  src: url("Ploni11AAA-Regular.woff2") format("woff2"),
+    url("Ploni11AAA-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}

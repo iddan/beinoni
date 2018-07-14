@@ -1,6 +1,6 @@
-let component = ReasonReact.statelessComponent("App");
+let component = ReasonReact.statelessComponent("Post");
 
 let make = _children => {
   ...component,
-  render: _self => <main> (ReasonReact.string("CONTENT")) </main>,
+  render: _self => <article> (ReasonReact.string("CONTENT")) </article>,
 };
