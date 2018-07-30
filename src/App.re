@@ -20,7 +20,11 @@ let make = _children => {
           </button>
         </aside>
       </header>
-      <main> <Post /> </main>
+      <main>
+        <Post
+          url="https://raw.githubusercontent.com/iddan/emtzai/master/README.md"
+        />
+      </main>
       <footer>
         <aside style=(ReactDOMRe.Style.make(~marginRight="auto", ()))>
           <AlefAlefAlefLogo />

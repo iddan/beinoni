@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bs-fetch": "^0.3.0",
+    "bs-react-markdown": "^0.0.9",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-markdown": "^3.4.1",
     "reason-scripts": "0.9.0"
   },
   "scripts": {
